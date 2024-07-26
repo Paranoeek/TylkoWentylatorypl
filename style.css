@@ -36,6 +36,7 @@ header img {
 nav ul {
     list-style: none;
     text-align: center;
+    text-size-adjust: 20px;
 }
 
 nav ul li {
